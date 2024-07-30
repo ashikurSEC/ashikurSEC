@@ -1,4 +1,4 @@
-![I am a Web Developer](https://media.licdn.com/dms/image/D4D16AQHKVCnwdJYmAQ/profile-displaybackgroundimage-shrink_350_1400/0/1715790819077?e=1721260800&v=beta&t=6NQUfUT5sMkqwiEuRqmU7KXtrNWE6mQ4iQ11QnjlkKk)
+
 
 ### Hi there 👋, My name is Ashikur Rahman
 #### I am a Web Developer
