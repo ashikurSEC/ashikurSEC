@@ -1,25 +1,56 @@
-
-
-### Hi there 👋, My name is Ashikur Rahman
+### Hi there 👋, I'm Ashikur Rahman
 #### I am a Web Developer
 
-I'm a frontend web developer who is passionate about making error free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies. I enjoy working with include ReactJS, JavaScript as well as PHP.
+I'm a frontend web developer passionate about creating error-free websites with 100% client satisfaction. I love learning and sharing my knowledge publicly. Solving real-world problems is my forte. I'm strategic, goal-oriented, and always work with an end goal in mind. Over the years, I've created hundreds of websites for my clients, priding myself on quality work and excellent communication. Most of my work is with WordPress, but I also enjoy using ReactJS, JavaScript, and PHP.
 
-Skills: HTML/CSS/JAVASCRIPT/REACT/PHP
+---
 
-- 🌱 I’m currently learning PHP, JavaScript & ReactJS 
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with ( How to become a good Software Engineer ) 
-- 📫 How to reach me: Email: ashikurrahman7194@gmail.com 
+### 🛠️ Skills:
+- HTML/CSS
+- JavaScript
+- ReactJS
+- PHP
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ashikurSEC)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ashikur-rahman-365836290/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ashikurrahman7194)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/ashikurrahman7194?igsh=MTBteTBqMGRiOGlsZw==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@ashikurrahman94)  
+### 🌱 Currently Learning:
+- PHP
+- JavaScript
+- ReactJS
+- Laravel
 
+---
+
+### 🤝 Looking to Collaborate on:
+- GitHub projects
+
+---
+
+### 💬 Ask Me About:
+- How to become a good Software Engineer
+
+---
+
+### 📫 How to Reach Me:
+- **Email:** ashikurrahman7194@gmail.com
+
+---
+
+### 🌐 Connect with Me:
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/ashikurSEC) 
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/ashikur-rahman-365836290/) 
+[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/ashikurrahman7194) 
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/ashikurrahman7194?igshid=MTBteTBqMGRiOGlsZw==) 
+[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg)](https://www.youtube.com/channel/@ashikurrahman94)
+
+---
+
+### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashikurSEC)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurSEC)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikurSEC&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ashikurSEC)  
-
+### 📊 GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikurSEC&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikurSEC&show_icons=true&theme=radical)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ashikurSEC&theme=highcontrast)
