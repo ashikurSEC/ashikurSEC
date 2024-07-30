@@ -17,7 +17,6 @@ I'm a frontend web developer passionate about creating error-free websites with 
 - PHP
 - JavaScript
 - ReactJS
-- Laravel
 
 ---
 
@@ -37,11 +36,14 @@ I'm a frontend web developer passionate about creating error-free websites with 
 ---
 
 ### 🌐 Connect with Me:
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/ashikurSEC) 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/ashikur-rahman-365836290/) 
-[![Facebook](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg)](https://www.facebook.com/ashikurrahman7194) 
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/ashikurrahman7194?igshid=MTBteTBqMGRiOGlsZw==) 
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg)](https://www.youtube.com/channel/@ashikurrahman94)
+
+<p align="left">
+    <a href="https://github.com/ashikurSEC" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="20" width="20" /></a>
+    <a href="https://www.linkedin.com/in/ashikur-rahman-365836290/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
+    <a href="https://www.facebook.com/ashikurrahman7194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="20" width="20" /></a>
+    <a href="https://www.instagram.com/ashikurrahman7194?igshid=MTBteTBqMGRiOGlsZw==" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="20" width="20" /></a>
+    <a href="https://www.youtube.com/channel/@ashikurrahman94" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
+</p>
 
 ---
 
